@@ -15,7 +15,7 @@ Detailed information about the image acquisition setup, illustrated below, is pr
 
 An example of acquired image is shown below. The 628 raw images, contained in "raw_images" folder, are named img_XXX.tiff; XXX goes from 000 to 627.
 
-![alt text](https://github.com/Sutadasuto/I3DCP/blob/main/raw_images/img_000.tiff?raw=true)
+![alt text](https://github.com/Sutadasuto/I3DCP/blob/main/readme_illustrations/img_000.png?raw=true)
 
 Additionally to the raw images, we provide two sets of annotations. The first set corresponds to binary segmentation masks of interstitial lines, as illustrated below. These binary images are contained in the "interstitial_region_segmentations" folder; inside that folder, the files are divided into a "training" folder with 128 images and a "testing" folder with 32 images. Each file is named img_XXX.png, where img_XXX denotes the corresponding image in "raw_images"; the approximate width of the annotated lines in the png images is 20 pixels.
 
