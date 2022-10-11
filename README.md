@@ -8,6 +8,7 @@ title = {Automatic monitoring of 3D concrete printing using computer vision},
 year = {2022},
 author = {Rodrigo Rill-García and Eva Dokladalova and Petr Dokládal and Romain Mesnil and Pierre Margerit},
 keywords = {Automatic monitoring, 3D concrete printing, Image processing, Deep learning},
+doi = {https://doi.org/10.1016/j.addma.2022.103175},
 }
 ```
 
