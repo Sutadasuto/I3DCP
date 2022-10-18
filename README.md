@@ -3,12 +3,16 @@
 The present dataset was collected at the 3D printing laboratory of the École des Ponts ParisTech, in France. It features 628 images acquired during a 3D concrete printing session. If using this dataset, kindly cite the next article:
 
 ```
-@article{monitoring_3d_concrete,
-title = {Automatic monitoring of 3D concrete printing using computer vision},
+@article{RILLGARCIA2022103175,
+title = {Inline monitoring of 3D concrete printing using computer vision},
+journal = {Additive Manufacturing},
+volume = {60},
+pages = {103175},
 year = {2022},
-author = {Rodrigo Rill-García and Eva Dokladalova and Petr Dokládal and Romain Mesnil and Pierre Margerit},
-keywords = {Automatic monitoring, 3D concrete printing, Image processing, Deep learning},
+issn = {2214-8604},
 doi = {https://doi.org/10.1016/j.addma.2022.103175},
+url = {https://www.sciencedirect.com/science/article/pii/S2214860422005644},
+author = {Rodrigo Rill-García and Eva Dokladalova and Petr Dokládal and Jean-François Caron and Romain Mesnil and Pierre Margerit and Malo Charrier},
 }
 ```
 
